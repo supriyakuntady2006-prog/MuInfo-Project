@@ -1,0 +1,20 @@
+{
+  "name": "muinfo-pwa",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@tensorflow/tfjs": "^4.10.0",
+    "localforage": "^1.10.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
